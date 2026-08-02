@@ -7,6 +7,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,5 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
