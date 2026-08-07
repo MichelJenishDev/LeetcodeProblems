@@ -7,12 +7,14 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1652-defuse-the-bomb](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,4 +29,12 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
