@@ -49,4 +49,12 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
