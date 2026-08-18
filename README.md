@@ -7,6 +7,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -15,6 +16,7 @@ My solutions for leet code problems
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
