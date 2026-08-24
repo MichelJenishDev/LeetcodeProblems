@@ -55,8 +55,10 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
