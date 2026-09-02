@@ -56,6 +56,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
@@ -70,6 +71,7 @@ My solutions for leet code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
