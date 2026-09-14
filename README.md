@@ -17,6 +17,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -62,6 +63,7 @@ My solutions for leet code problems
 | [0061-rotate-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
