@@ -59,6 +59,7 @@ My solutions for leet code problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
@@ -80,6 +81,7 @@ My solutions for leet code problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
@@ -113,4 +115,8 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
