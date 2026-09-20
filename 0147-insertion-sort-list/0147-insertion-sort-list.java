@@ -14,7 +14,7 @@ class Solution {
             curr.next = next.next;
 
             ListNode prev = dummy;
-            while(prev.next!=null && prev.next.val < next.val){
+            while(prev.next.val < next.val){
                 prev = prev.next;
             }
              next.next = prev.next;
