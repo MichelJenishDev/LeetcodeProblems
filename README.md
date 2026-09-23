@@ -111,6 +111,7 @@ My solutions for leet code problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,12 +138,15 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
