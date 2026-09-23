@@ -109,6 +109,7 @@ My solutions for leet code problems
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
@@ -132,4 +133,16 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
