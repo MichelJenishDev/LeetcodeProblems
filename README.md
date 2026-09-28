@@ -8,6 +8,7 @@ My solutions for leet code problems
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +96,7 @@ My solutions for leet code problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
