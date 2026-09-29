@@ -1,7 +1,7 @@
 class Solution {
     int sum=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        int height = dm(root);
+        dm(root);
         return sum;
     }
     public int dm(TreeNode root){
