@@ -34,6 +34,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
@@ -150,6 +151,7 @@ My solutions for leet code problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -163,6 +165,7 @@ My solutions for leet code problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -177,6 +180,7 @@ My solutions for leet code problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -191,4 +195,8 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
