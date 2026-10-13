@@ -13,8 +13,9 @@ class Solution {
     TreeNode helper(int[] preorder,int[] inorder,int l,int r){
         if(l > r) return null;
         int val = preorder[preindx];
-        TreeNode root = new TreeNode(preorder[preindx++]);
+        TreeNode root = new TreeNode(preorder[preindx]);
         int pos = search(inorder,root.val,l,r);
+        preindx++;
         root.left = helper(preorder,inorder,l,pos-1);
         root.right = helper(preorder,inorder,pos+1,r);
         return root;
