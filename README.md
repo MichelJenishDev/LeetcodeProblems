@@ -36,6 +36,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
@@ -101,6 +102,7 @@ My solutions for leet code problems
 | [0061-rotate-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
