@@ -19,6 +19,7 @@ My solutions for leet code problems
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -31,6 +32,7 @@ My solutions for leet code problems
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1652-defuse-the-bomb) |
@@ -38,6 +40,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
