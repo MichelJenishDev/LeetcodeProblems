@@ -141,6 +141,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0441-arranging-coins](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0441-arranging-coins) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,4 +240,8 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
