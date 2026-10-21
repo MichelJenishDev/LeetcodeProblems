@@ -11,6 +11,7 @@ My solutions for leet code problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -112,6 +113,7 @@ My solutions for leet code problems
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -141,6 +143,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0441-arranging-coins) |
 ## Heap (Priority Queue)
 |  |
