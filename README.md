@@ -9,6 +9,7 @@ My solutions for leet code problems
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ My solutions for leet code problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +110,7 @@ My solutions for leet code problems
 | [0061-rotate-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0143-reorder-list) |
