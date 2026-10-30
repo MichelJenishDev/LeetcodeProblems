@@ -7,6 +7,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
