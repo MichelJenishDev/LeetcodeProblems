@@ -14,6 +14,7 @@ My solutions for leet code problems
 | [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ My solutions for leet code problems
 | [0138-copy-list-with-random-pointer](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,10 +60,12 @@ My solutions for leet code problems
 | [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -141,6 +145,7 @@ My solutions for leet code problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -262,4 +267,8 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
