@@ -10,6 +10,7 @@ My solutions for leet code problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -268,6 +269,7 @@ My solutions for leet code problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -278,5 +280,6 @@ My solutions for leet code problems
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
