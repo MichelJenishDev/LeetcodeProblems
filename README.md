@@ -15,6 +15,7 @@ My solutions for leet code problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -268,9 +269,14 @@ My solutions for leet code problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MichelJenishDev/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
