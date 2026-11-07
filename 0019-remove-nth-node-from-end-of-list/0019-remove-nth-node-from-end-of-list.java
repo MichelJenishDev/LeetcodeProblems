@@ -20,7 +20,7 @@ class Solution {
         ListNode temp = head;
         while(temp!=null){
             count++;
-            temp = temp.next;
+            temp = temp.next; 
         }
         return count;
     }
